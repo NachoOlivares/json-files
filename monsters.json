@@ -792,7 +792,7 @@
     "Languages": "--",
     "Challenge": "3 (700 XP)",
     "Actions": "<p><em><strong>Tail.</strong></em> <em>Melee Weapon Attack:</em> +7 to hit, reach 10 ft., one target. <em>Hit:</em> 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://cdnb.artstation.com/p/assets/images/images/004/923/037/large/karl-lindberg-jurassic-world-ankylosaurus.jpg"
   },
   {
     "name": "Ape",
@@ -817,7 +817,7 @@
     "Languages": "--",
     "Challenge": "1/2 (100 XP)",
     "Actions": "<p><em><strong>Multiattack.</strong></em> The ape makes two fist attacks. </p><p><em><strong>Fist.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage. </p><p><em><strong>Rock.</strong></em> <em>Ranged Weapon Attack:</em> +5 to hit, range 25/50 ft., one target. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://pbs.twimg.com/media/E26nsX0VIAEsBeh.jpg"
   },
   {
     "name": "Archmage",
@@ -950,7 +950,7 @@
     "Languages": "--",
     "Challenge": "1/4 (50 XP)",
     "Actions": "<p><em><strong>Beak.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d8 + 2) slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://i.pinimg.com/originals/11/ea/86/11ea8600859422bea46d664be8746781.jpg"
   },
   {
     "name": "Azer",
@@ -1003,7 +1003,7 @@
     "Challenge": "0 (10 XP)",
     "Traits": "<p><em><strong>Pack Tactics.</strong></em> The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +1 to hit, reach 5 ft., one target. <em>Hit:</em> 1 (1d4 − 1) piercing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://cdn.shopify.com/s/files/1/1208/8894/products/germanschool_ape_1024x1024.jpg?v=1584638992"
   },
   {
     "name": "Badger",
@@ -1323,7 +1323,7 @@
     "Challenge": "1/2 (100 XP)",
     "Traits": "<p><em><strong>Keen Smell.</strong></em> The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>",
     "Actions": "<p><em><strong>Multiattack.</strong></em> The bear makes two attacks: one with its bite and one with its claws. </p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage. </p><p><em><strong>Claws.</strong></em> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (2d4 + 2) slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://w0.peakpx.com/wallpaper/40/123/HD-wallpaper-big-black-bear-painting-black-bear-grass.jpg"
   },
   {
     "name": "Black Dragon Wyrmling",
@@ -1431,7 +1431,7 @@
     "Challenge": "1/8 (25 XP)",
     "Traits": "<p><em><strong>Keen Sight.</strong></em> The hawk has advantage on Wisdom (Perception) checks that rely on sight. </p><p><em><strong>Pack Tactics.</strong></em> The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>",
     "Actions": "<p><em><strong>Beak.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) piercing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.wikia.nocookie.net/forgottenrealms/images/d/df/Hawk_5e.jpg/revision/latest?cb=20210408132609"
   },
   {
     "name": "Blue Dragon Wyrmling",
@@ -1483,7 +1483,7 @@
     "Challenge": "1/4 (50 XP)",
     "Traits": "<p><em><strong>Charge.</strong></em> If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. </p><p><em><strong>Relentless (Recharges after a Short or Long Rest).</strong></em> If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.</p>",
     "Actions": "<p><em><strong>Tusk.</strong></em> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d6 + 1) slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://i.pinimg.com/originals/42/3f/5e/423f5e892c582fb54dafa7bc60fb57b6.jpg"
   },
   {
     "name": "Bone Devil",
@@ -1594,7 +1594,7 @@
     "Challenge": "1 (200 XP)",
     "Traits": "<p><em><strong>Keen Smell.</strong></em> The bear has advantage on Wisdom (Perception) checks that rely on smell.</p>",
     "Actions": "<p><em><strong>Multiattack.</strong></em> The bear makes two attacks: one with its bite and one with its claws. </p><p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d8 + 4) piercing damage. </p><p><em><strong>Claws.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (2d6 + 4) slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.cdprojektred.com/playgwent.com/news/big/playgwent.com_es_1551352236_5c77c1ac800889.35486643.jpg"
   },
   {
     "name": "Bugbear",
@@ -1670,7 +1670,7 @@
     "Languages": "--",
     "Challenge": "1/8 (25 XP)",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 2 (1d4) bludgeoning damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.wikia.nocookie.net/hearthstone_gamepedia/images/3/3e/Desert_Camel_full.png/revision/latest/scale-to-width-down/511?cb=20151107220606"
   },
   {
     "name": "Cat",
@@ -1696,7 +1696,7 @@
     "Challenge": "0 (10 XP)",
     "Traits": "<p><em><strong>Keen Smell.</strong></em> The cat has advantage on Wisdom (Perception) checks that rely on smell.</p>",
     "Actions": "<p><em><strong>Claws.</strong></em> <em>Melee Weapon Attack:</em> +0 to hit, reach 5 ft., one target. <em>Hit:</em> 1 slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://64.media.tumblr.com/af49c59ac730e5ab4a72c716dff36015/5bc08460bc7c06f1-98/s540x810/23863adba944aaae5c9f4aa38ef6badcdfe51103.jpg"
   },
   {
     "name": "Centaur",
@@ -1957,7 +1957,7 @@
     "Languages": "--",
     "Challenge": "1/4 (50 XP)",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 5 (1d6 + 2) piercing damage. </p><p><em><strong>Constrict.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://yourdnd.com/images/items/_base/07793772-51E5-022D-5FD9-6F97F859F053.jpg"
   },
   {
     "name": "Copper Dragon Wyrmling",
@@ -2038,7 +2038,7 @@
     "Challenge": "0 (10 XP)",
     "Traits": "<p><em><strong>Amphibious.</strong></em> The crab can breathe air and water.</p>",
     "Actions": "<p><em><strong>Claw.</strong></em> <em>Melee Weapon Attack:</em> +0 to hit, reach 5 ft., one target. <em>Hit:</em> 1 bludgeoning damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://i.pinimg.com/originals/9e/b9/07/9eb907441c673c38d9281f8659034721.jpg"
   },
   {
     "name": "Crocodile",
@@ -2064,7 +2064,7 @@
     "Challenge": "1/2 (100 XP)",
     "Traits": "<p><em><strong>Hold Breath.</strong></em> The crocodile can hold its breath for 15 minutes.</p>",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature. <em>Hit:</em> 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.wikia.nocookie.net/forgottenrealms/images/2/27/Crocodile.jpeg/revision/latest?cb=20190624075223"
   },
   {
     "name": "Cult Fanatic",
@@ -2243,7 +2243,7 @@
     "Languages": "--",
     "Challenge": "0 (10 XP)",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 2 (1d4) piercing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://i.pinimg.com/originals/a0/42/71/a04271ed4b0cfd8a849111b29e53fb57.jpg"
   },
   {
     "name": "Deva",
@@ -2376,7 +2376,7 @@
     "Languages": "--",
     "Challenge": "1/4 (50 XP)",
     "Actions": "<p><em><strong>Hooves.</strong></em> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d4 + 4) bludgeoning damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4b/Horse-5e.jpg/revision/latest?cb=20171010175151"
   },
   {
     "name": "Dragon Turtle",
@@ -5475,7 +5475,7 @@
     "Challenge": "1/8 (25 XP)",
     "Traits": "<p><em><strong>Beast of Burden.</strong></em> The mule is considered to be a Large animal for the purpose of determining its carrying capacity. </p><p><em><strong>Sure-Footed.</strong></em> The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.</p>",
     "Actions": "<p><em><strong>Hooves.</strong></em> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) bludgeoning damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://pbs.twimg.com/media/EUEXgugUUAAQ0Du?format=jpg&name=large"
   },
   {
     "name": "Mummy",
@@ -5934,7 +5934,7 @@
     "Challenge": "1/4 (50 XP)",
     "Traits": "<p><em><strong>Keen Smell.</strong></em> The panther has advantage on Wisdom (Perception) checks that rely on smell. </p><p><em><strong>Pounce.</strong></em> If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.</p>",
     "Actions": "<p><em><strong>Bite.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage. </p><p><em><strong>Claw.</strong></em> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d4 + 2) slashing damage.</p>",
-    "img_url": "https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg"
+    "img_url": "https://static.wikia.nocookie.net/forgottenrealms/images/9/97/Guenhwyvar_LoD.png/revision/latest?cb=20210520171237"
   },
   {
     "name": "Pegasus",
