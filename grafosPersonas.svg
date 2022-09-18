@@ -1,10 +1,10 @@
-name
-Old Mr.Jhon
-Jhon Junior
-Sonya
-Judas
-First daughter
-Dracula;
+name, localidad
+Old Mr.Jhon, Escocia
+Jhon Junior, Escocia
+Sonya, Canada
+Judas, Alemania
+First daughter, Menejil
+Dracula, Transilvania;
 
 nameFrom, relation, nameTo
 Old Mr.Jhon, IS_FATHER_OF, Jhon Junior
