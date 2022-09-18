@@ -1,0 +1,4 @@
+nameFrom, relation, nameTo
+Old Mr.Jhon, IS_FATHER_OF, Jhon Junior
+Sonya, IS_1ST_WIFE_OF, Judas
+First daughter, IS_DAUGHTER_OF, Dracula
